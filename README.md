@@ -47,6 +47,8 @@ The more enemies you kill in the space battle, when you crash you use the scraps
 
 Unity ver: 2022.3.12f1
 
+TLDR: rouglike exploration game, spend 20 mins in procgen planets collecting resources to make yourself or the ship better(balancing) and go against an army in space-> repeat
+
 
 
 
