@@ -6,7 +6,7 @@ public class MeshGenerator : MonoBehaviour {
 
     MeshFilter meshFilter;
 
-    float terrainSurface = 0.75f;
+    float terrainSurface = 0.5f;
     int width = 64;
     int height = 8;
     float[,,] terrainMap;
